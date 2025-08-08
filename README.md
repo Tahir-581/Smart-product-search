@@ -27,11 +27,11 @@ The AI extracts filters such as category, max price, and rating, then dynamicall
 
 ### Home page with product catalog
 
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/homepage.PNG)
 
-### Search results for "running shoes under $100 with good reviews"
+### Search results for "daily use laptop with no budget limit"
 
-![Search Results](screenshots/search-results.png)
+![Search Results](screenshots/search-results.PNG)
 
 ---
 
